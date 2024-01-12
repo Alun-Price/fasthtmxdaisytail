@@ -81,5 +81,3 @@ The project uses pre-commit with the following hooks:
 
 `CORS Protection`:
 Cross-Origin Resource Sharing (CORS) is a security feature that controls which web domains are permitted to access resources from your web application, preventing unauthorized cross-origin requests.
-
-Feel free to explore and modify the project to suit your needs!
