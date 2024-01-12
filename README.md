@@ -44,6 +44,8 @@ To start the application:
 make up
 ```
 
+Go to http://localhost:8000 in the browser to see the app in action!
+
 To shut down the application:
 
 ```bash
